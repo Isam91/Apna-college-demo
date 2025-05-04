@@ -1,4 +1,4 @@
 # Apna-college-demo
 First repository
 <br>
-Author- Isam Zaman
+Author- Isam Zaman(uzzaman)
